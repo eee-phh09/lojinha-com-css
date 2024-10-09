@@ -1,0 +1,28 @@
+body{
+
+    background-color: wheat;
+}
+#Funcionarios{
+
+    background-color: black;
+    border-width: 4px;
+    border: solid blue;
+}
+#header{
+
+    background-color: blue;
+    border: solid black;
+    border-width: 4px;
+}
+#ul{
+
+    border: solid blue;
+    border-width: 4px;
+    background-color: white;
+}
+#nav{
+
+    background-color: blue;
+    border: solid black;
+    border: 4px;
+}

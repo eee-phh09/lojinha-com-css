@@ -1,0 +1,57 @@
+ #cabeçalho{
+
+    background-color: white;
+    border: green;
+    border-width: 15px;
+    margin-left: 130px;
+    width: 780px;
+
+}
+#inicio{
+
+    background-color: rgba(255, 255, 255, 0.669);
+    border: gray;
+    border-width: 10px;
+    margin-left: 145px;
+    width: 810px;
+}
+body{
+
+    background-image: url(https://images.tcdn.com.br/img/img_prod/311840/camiseta_gremio_escudo_feminina_azul_18893_3_20210806221614.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+
+}
+#entrada{
+
+    background-color: white;
+    width: 600px;
+}
+#article{
+
+    background-color: white;
+    width: 600px;
+}
+#article2{
+
+    background-color: white;
+    width: 600px;
+}
+#div{
+
+    background-image: url(https://img.freepik.com/vetores-gratis/icone-de-midia-social-do-vetor-instagram-7-de-junho-de-2021-banguecoque-tailandia_53876-136728.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1728259200&semt=ais_hybrid);
+}
+#foto1{
+
+   
+    width: 70px;
+    height: 70px;
+}
+#foto2{
+
+    
+    width: 70px;
+    height: 70px;
+
+}

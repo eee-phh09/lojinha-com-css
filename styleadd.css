@@ -1,0 +1,11 @@
+body{
+
+    background-color: blue;
+}
+#header{
+
+    background-color: blue ;
+    color: black;
+    border: black ;
+    border-width: 5px;
+}
